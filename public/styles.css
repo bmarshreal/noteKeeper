@@ -63,10 +63,12 @@ footer p {
   margin-right: 10px;
   color: #f5ba13;
   border: none;
-  width: 36px;
+  width: 3.5rem;
   height: 36px;
   cursor: pointer;
   outline: none;
+  background-color: lightgray;
+  border-radius: 70%;
 }
 
 form.create-note {
